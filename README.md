@@ -45,3 +45,25 @@ CHATTERS is a full-stack real-time chat application built using the MERN stack (
 ```bash
 git clone https://github.com/your-username/chatters.git
 cd chatters
+
+
+2. Backend Setup
+
+```bash
+cd backend
+npm install
+
+Start the Backend Server
+```bash
+ node Index.js /npm start
+
+3. Frontend Setup
+Open a new terminal window:
+```bash
+cd frontend
+npm install
+
+Start the Frontend Server
+npm run dev
+
+ 
